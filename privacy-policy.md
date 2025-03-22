@@ -10,7 +10,7 @@ A Alugafácil respeita a sua privacidade e está comprometida com a proteção d
 
 - **Nome da empresa:** Alugafácil  
 - **NIF:** 987654321  
-- **Endereço:** Rua Prof Julia de Morais Costa Barros, 9, Venda do Pinheiro - Lisboa, 2665-555  
+- **Endereço:** Rua ..., ..., Lisboa, 2665-555  
 - **E-mail para questões de privacidade:** [privacy@alugafacil.pt](mailto:privacy@alugafacil.pt)
 
 ---
